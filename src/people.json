@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "first_name": "Osbert",
+    "last_name": "Halpen",
+    "email": "ohalpen0@squidoo.com",
+    "gender": "Male",
+    "ip_address": "60.224.4.50"
+  },
+  {
+    "id": 3,
+    "first_name": "Antonia",
+    "last_name": "Yates",
+    "email": "ayates2@opera.com",
+    "gender": "Female",
+    "ip_address": "202.187.134.169"
+  },
+  {
+    "id": 4,
+    "first_name": "Devlen",
+    "last_name": "Barlas",
+    "email": "dbarlas3@blogtalkradio.com",
+    "gender": "Male",
+    "ip_address": "253.99.176.247"
+  },
+  {
+    "id": 5,
+    "first_name": "Nerta",
+    "last_name": "Torbard",
+    "email": "ntorbard4@engadget.com",
+    "gender": "Female",
+    "ip_address": "228.125.11.91"
+  },
+  {
+    "id": 6,
+    "first_name": "Aurel",
+    "last_name": "Chown",
+    "email": "achown5@wp.com",
+    "gender": "Female",
+    "ip_address": "207.233.71.181"
+  },
+  {
+    "id": 7,
+    "first_name": "Gerri",
+    "last_name": "Milmo",
+    "email": "gmilmo6@imdb.com",
+    "gender": "Female",
+    "ip_address": "156.145.236.70"
+  },
+  {
+    "id": 8,
+    "first_name": "Phil",
+    "last_name": "Ricarde",
+    "email": "pricarde7@java.com",
+    "gender": "Female",
+    "ip_address": "165.248.247.210"
+  },
+  {
+    "id": 9,
+    "first_name": "Joanne",
+    "last_name": "Lewendon",
+    "email": "jlewendon8@oracle.com",
+    "gender": "Female",
+    "ip_address": "145.186.192.149"
+  },
+  {
+    "id": 10,
+    "first_name": "Clair",
+    "last_name": "O'Heneghan",
+    "email": "coheneghan9@parallels.com",
+    "gender": "Male",
+    "ip_address": "128.208.199.24"
+  },
+  {
+    "id": 11,
+    "first_name": "Kerwinn",
+    "last_name": "Grestye",
+    "email": "kgrestye1@wordpress.com",
+    "gender": "Male",
+    "ip_address": "213.0.130.35"
+  }
+]
